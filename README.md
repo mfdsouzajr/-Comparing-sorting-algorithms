@@ -70,4 +70,4 @@ Note that the time shown is in the following format: *hh:mm:ss.fffffff*.
 
 #### Final words
 
-That's it, guys. I hope you enjoyed this extremely simple application, which served as the basis for one of my university studies involving sorting algorithms.
+That's it, guys. This extremely simple application served as the basis for one of my university studies involving sorting algorithms. I hope you enjoyed! Bye.
