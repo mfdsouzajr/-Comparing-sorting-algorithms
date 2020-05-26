@@ -10,15 +10,15 @@ As shown in the screenshot below, the user typed 10. That means that 10 numbers 
 
 ![Step 1](https://github.com/marcosFDSjunior/-Comparing-sorting-algorithms/blob/master/Application%20screenshots/02.PNG)
 
-## Step 2: Display the vector of each case.
+## Step 2: View the vector of each case.
 
 The application will create the vector of each case:
 
-• Best Case vector: a random vector containing positive integers in ascending order.
+• **Best Case vector:** a random vector containing positive integers in ascending order.
 
-• Medium Case vector: a random vector containing positive integers in scrambled order.
+• **Medium Case vector:** a random vector containing positive integers in scrambled order.
 
-• Worst Case vector: a random vector containing positive integers in decreasing order.
+• **Worst Case vector:** a random vector containing positive integers in decreasing order.
 
 The range of possible numbers for each vector depends on the number of elements the user has entered. For example, if the user typed 10, the range of possible numbers will be from 1 to 10.
 
@@ -28,11 +28,11 @@ The range of possible numbers for each vector depends on the number of elements 
 
 Each numeric option represents a type of sorting algorithm. The sorting algorithms selected for this small application were:
 
-• Bubble Sort
+• **Bubble Sort**
 
-• Insertion Sort
+• **Insertion Sort**
 
-• Quick Sort
+• **Quick Sort**
 
 ![Step 3](https://github.com/marcosFDSjunior/-Comparing-sorting-algorithms/blob/master/Application%20screenshots/04.PNG)
 
@@ -41,10 +41,19 @@ What if the user enters a nonexistent option as shown in the screenshot below?
 ![Step 3](https://github.com/marcosFDSjunior/-Comparing-sorting-algorithms/blob/master/Application%20screenshots/09.PNG)
 
 Well... 
-In that case, the user will receive a message saying that the operation is invalid and the "Options Menu" will appear again until he enters a valid numeric option.
+In that case, the user will receive a message saying that the operation is invalid and the "Options Menu" will appear again until the user enters a valid numeric option.
 
 ![Step 3](https://github.com/marcosFDSjunior/-Comparing-sorting-algorithms/blob/master/Application%20screenshots/10.PNG)
 
 ## Step 4: View the runtimes obtained to put the vector of each case in ascending order.
 
+When the user finally enters a valid option, that is, choosing an ordering algorithm, the application will show the Runtime taken to put the vector of each case in ascending order, as shown in the screenshot below:
+
 ![Step 4](https://github.com/marcosFDSjunior/-Comparing-sorting-algorithms/blob/master/Application%20screenshots/11.PNG)
+
+Note that the time shown is in the following format: *hh:mm:ss.fffffff*.
+
+• *hh* -> Hours
+• *mm* -> Minutes
+• *ss* -> Seconds
+• *fffffff* -> Fractions of seconds
