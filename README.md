@@ -14,11 +14,11 @@ As shown in the screenshot below, the user typed 10. That means that 10 numbers 
 
 The application will create the array of each case:
 
-• **Best Case array:** a random vector containing positive integers in ascending order.
+• **Best Case array:** a random array containing positive integers in ascending order.
 
-• **Medium Case array:** a random vector containing positive integers in scrambled order.
+• **Medium Case array:** a random array containing positive integers in scrambled order.
 
-• **Worst Case array:** a random vector containing positive integers in decreasing order.
+• **Worst Case array:** a random array containing positive integers in decreasing order.
 
 The range of possible numbers for each array depends on the number of elements the user has entered. For example, if the user typed 10, the range of possible numbers will be from 1 to 10.
 
